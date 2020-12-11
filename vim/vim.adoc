@@ -1,6 +1,6 @@
 = VIM(1)
-Andrew Stanton
-v1.0.0
+William Kirk
+v0.0.1
 :doctype: manpage
 :manmanual: VIM
 :mansource: VIM
@@ -8,7 +8,7 @@ v1.0.0
 
 == Name
 
-vim - analyzes an image to determine if it's a picture of a life form
+vim - cheat sheet
 
 == Synopsis
 
@@ -34,9 +34,9 @@ vim - analyzes an image to determine if it's a picture of a life form
 
 == Resources
 
-*Project web site:* https://VIM.example.org
+*Project web site:* https://github.com/vim/vim
 
-== Copying
+== Copyright
 
-Copyright (C) 2008 {author}. +
+Copyright (C) 2020 {author}. +
 Free use of this software is granted under the terms of the MIT License.
