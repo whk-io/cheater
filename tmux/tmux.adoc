@@ -1,6 +1,6 @@
 = TMUX(1)
-Andrew Stanton
-v1.0.0
+William Kirk
+v0.0.2
 :doctype: manpage
 :manmanual: TMUX
 :mansource: TMUX
@@ -8,35 +8,18 @@ v1.0.0
 
 == Name
 
-tmux - analyzes an image to determine if it's a picture of a life form
+tmux - cheat sheet
 
-== Synopsis
+== Start new TMUX session:
+*tmux new -s [session_name]*
 
-*TMUX* [_OPTION_]... _FILE_...
-
-== Options
-
-*-o, --out-file*=_OUT_FILE_::
-  Write result to file _OUT_FILE_.
-
-*-c, --capture*::
-  Capture specimen if it's a picture of a life form.
-
-== Exit status
-
-*0*::
-  Success.
-  Image is a picture of a life form.
-
-*1*::
-  Failure.
-  Image is not a picture of a life form.
+== List TMUX sessions:
+*tmux ls*
 
 == Resources
+*Project web site:* https://github.com/tmux/tmux
 
-*Project web site:* https://TMUX.example.org
+== Copyright
 
-== Copying
-
-Copyright (C) 2008 {author}. +
+Copyright (C) 2020 {author}. +
 Free use of this software is granted under the terms of the MIT License.
