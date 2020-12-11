@@ -10,23 +10,11 @@ v0.0.1
 
 vim - cheat sheet
 
-== Options
+== Commands
 
-*-o, --out-file*=_OUT_FILE_::
-  Write result to file _OUT_FILE_.
+*:u* = undo
 
-*-c, --capture*::
-  Capture specimen if it's a picture of a life form.
-
-== Exit status
-
-*0*::
-  Success.
-  Image is a picture of a life form.
-
-*1*::
-  Failure.
-  Image is not a picture of a life form.
+*dd* = delete line
 
 == Resources
 
