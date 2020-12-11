@@ -13,6 +13,12 @@ tmux - cheat sheet
 == Start new TMUX session:
 *tmux new -s [session_name]*
 
+== Attach to an existing TMUX session:
+*tmux attach -t [session_name]*
+
+== Attach to an existing TMUX session by number:
+*tmux attach -t 0*
+
 == List TMUX sessions:
 *tmux ls*
 
