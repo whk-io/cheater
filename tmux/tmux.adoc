@@ -22,6 +22,9 @@ tmux - cheat sheet
 == List TMUX sessions:
 *tmux ls*
 
+== Swap Panes:
+*ctrl+b shift+[*
+
 == Resources
 *Project web site:* https://github.com/tmux/tmux
 

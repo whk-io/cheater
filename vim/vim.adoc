@@ -10,10 +10,6 @@ v0.0.1
 
 vim - cheat sheet
 
-== Synopsis
-
-*VIM* [_OPTION_]... _FILE_...
-
 == Options
 
 *-o, --out-file*=_OUT_FILE_::
